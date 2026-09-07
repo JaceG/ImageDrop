@@ -1,0 +1,6 @@
+# Build output (download the app from GitHub Releases instead)
+ImageDrop.app/
+*.zip
+*.dmg
+.DS_Store
+.claude/
