@@ -8,7 +8,7 @@ A tiny macOS menu bar app that converts images. Drop a file on it, pick a format
 and a compression preset, and the converted copy is saved next to the original.
 
 **[Download for Mac](https://github.com/JaceG/ImageDrop/releases/latest/download/ImageDrop.zip)** ·
-[Website](https://jaceg.github.io/ImageDrop/) · Windows: coming soon
+[Website](https://imagedropapp.com/) · Windows: coming soon
 
 - **Formats:** PNG, JPEG, WebP, HEIC, TIFF, GIF, BMP (in and out)
 - **Presets:** Original, Web page, Social media, Email / messaging, Thumbnail
